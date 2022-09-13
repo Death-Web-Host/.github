@@ -8,7 +8,7 @@
 
 
 ### Discord Status
-<p align="left">
+<p align="center">
 <a href="https://discord.com/users/991140932432965693">
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/991140932432965693.png" /> <a href="https://discord.com/users/590617001811247105">
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/590617001811247105.png" /> <a href="https://discord.com/users/282911966752931843">
