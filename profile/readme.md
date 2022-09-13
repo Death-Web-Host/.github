@@ -12,7 +12,7 @@
 <a href="https://discord.com/users/991140932432965693">
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/991140932432965693.png" /> <a href="https://discord.com/users/590617001811247105">
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/590617001811247105.png" /> <a href="https://discord.com/users/282911966752931843">
-<img height="80px" src="https://discord.c99.nl/widget/theme-2/282911966752931843.png" />
+<img height="80px" src="https://discord.c99.nl/widget/theme-2/282911966752931843.png" /> <a href="https://discord.com/users/282911966752931843">
 </a>
 </p>
 
@@ -29,6 +29,6 @@
 
   <summary>:zap: GitHub Stats</summary>
 </br>
-<img align="center" alt="AgentDeath253" src="https://github-readme-stats.vercel.app/api?username=agentdeath253&show_icons=true&locale=en&theme=dark&layout=compact" /> 
-<img align="center" alt="4yx" src="https://github-readme-stats.vercel.app/api?username=4yx&show_icons=true&locale=en&theme=dark&layout=compact" />
-<img align="center" alt="4yx" src="https://github-readme-stats.vercel.app/api?username=timeflow5&show_icons=true&locale=en&theme=dark&layout=compact" />
+<img  alt="AgentDeath253" src="https://github-readme-stats.vercel.app/api?username=agentdeath253&show_icons=true&locale=en&theme=dark&layout=compact" /> 
+<img  alt="4yx" src="https://github-readme-stats.vercel.app/api?username=4yx&show_icons=true&locale=en&theme=dark&layout=compact" />
+<img  alt="Timeflow" src="https://github-readme-stats.vercel.app/api?username=timeflow5&show_icons=true&locale=en&theme=dark&layout=compact" />
