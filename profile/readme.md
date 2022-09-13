@@ -15,20 +15,19 @@
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/282911966752931843.png" />
 </a>
 </p>
-<p align="center">
 
 </a>
 </p>
 ### Languages and Tools:
-<p align="left">
-<img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
+<p align="center">
+<img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html" /><img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php" /><img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css" />
 </p>
 <br>
 
 
 
 
-  <center>GitHub Stats</center>
+  <summary>:zap: GitHub Stats</summary>
 </br>
-<img align="left" alt="AgentDeath253" src="https://github-readme-stats.vercel.app/api?username=agentdeath253&show_icons=true&locale=en&theme=dark&layout=compact" />
+<img align="center" alt="AgentDeath253" src="https://github-readme-stats.vercel.app/api?username=agentdeath253&show_icons=true&locale=en&theme=dark&layout=compact" /> 
 <img align="center" alt="4yx" src="https://github-readme-stats.vercel.app/api?username=4yx&show_icons=true&locale=en&theme=dark&layout=compact" />
