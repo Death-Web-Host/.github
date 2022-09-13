@@ -5,13 +5,14 @@
 - Our Support Email: Support@Death-Hosting.me (Please Email Grace@Death-Hosting.me For Business Issues And Security Issues)
 - Our Discord Server [Discord](https://discord.death-hosting.me)
 
----
+
 
 ### Discord Status
 <p align="left">
 <a href="https://discord.com/users/991140932432965693">
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/991140932432965693.png" /> <a href="https://discord.com/users/590617001811247105">
-<img height="80px" src="https://discord.c99.nl/widget/theme-2/590617001811247105.png" />
+<img height="80px" src="https://discord.c99.nl/widget/theme-2/590617001811247105.png" /> <a href="https://discord.com/users/282911966752931843">
+<img height="80px" src="https://discord.c99.nl/widget/theme-2/282911966752931843.png" />
 </a>
 </p>
 <p align="center">
@@ -24,10 +25,10 @@
 </p>
 <br>
 
----
 
-<details>
-  <center> GitHub Stats</center>
+
+
+  <center>GitHub Stats</center>
 </br>
 <img align="left" alt="AgentDeath253" src="https://github-readme-stats.vercel.app/api?username=agentdeath253&show_icons=true&locale=en&theme=dark&layout=compact" />
 <img align="center" alt="4yx" src="https://github-readme-stats.vercel.app/api?username=4yx&show_icons=true&locale=en&theme=dark&layout=compact" />
