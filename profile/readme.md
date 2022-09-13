@@ -29,6 +29,6 @@
 
   <summary>:zap: GitHub Stats</summary>
 </br>
-<img align="left" alt="AgentDeath253" src="https://github-readme-stats.vercel.app/api?username=agentdeath253&show_icons=true&locale=en&theme=dark&layout=compact" /> 
+<img align="center" alt="AgentDeath253" src="https://github-readme-stats.vercel.app/api?username=agentdeath253&show_icons=true&locale=en&theme=dark&layout=compact" /> 
 <img align="center" alt="4yx" src="https://github-readme-stats.vercel.app/api?username=4yx&show_icons=true&locale=en&theme=dark&layout=compact" />
-<img align="right" alt="4yx" src="https://github-readme-stats.vercel.app/api?username=timeflow5&show_icons=true&locale=en&theme=dark&layout=compact" />
+<img align="center" alt="4yx" src="https://github-readme-stats.vercel.app/api?username=timeflow5&show_icons=true&locale=en&theme=dark&layout=compact" />
