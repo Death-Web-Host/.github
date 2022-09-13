@@ -7,7 +7,7 @@
 
 
 
-### Discord Status
+ Discord Status
 <p align="center">
 <a href="https://discord.com/users/991140932432965693">
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/991140932432965693.png" /> <a href="https://discord.com/users/590617001811247105">
@@ -18,7 +18,7 @@
 
 </a>
 </p>
-### Languages and Tools:
+ Languages and Tools:
 <p align="center">
 <img src="https://img.shields.io/badge/html-black?style=for-the-badge&logo=html" /><img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php" /><img src="https://img.shields.io/badge/css-black?style=for-the-badge&logo=css" />
 </p>
