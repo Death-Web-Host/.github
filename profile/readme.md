@@ -1,7 +1,7 @@
 <h1 align="center">Welcome To The Death Web Hosting Github</h1>
 <h3 align="center">We Provide Free Web Hosting To Everyone</h3>
 
-- Our Site: [Death Hosting] (https://death-hosting.me)
+- Our Site: [Death Hosting](https://death-hosting.me)
 - Our Support Email: Support@Death-Hosting.me (Please Email Grace@Death-Hosting.me For Business Issues And Security Issues)
 - Our Discord Server [Discord](https://discord.death-hosting.me)
 
